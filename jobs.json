@@ -1,0 +1,8 @@
+{
+  "candidate_skills": ["SQL", "Excel", "Python"],
+  "jobs": [
+    {"id": "demo-1", "company": "Example Retail", "title": "Insights Analyst", "location": "London", "minimum_years": 1, "required_skills": ["SQL", "Excel"]},
+    {"id": "demo-2", "company": "Example Media", "title": "Junior Data Analyst", "location": "London", "minimum_years": 1, "required_skills": ["SQL", "Tableau"]},
+    {"id": "demo-3", "company": "Example Retail", "title": "Insights Analyst", "location": "London", "minimum_years": 1, "required_skills": ["SQL", "Excel"]}
+  ]
+}
